@@ -1,0 +1,16 @@
+.logopan{
+    padding:23px 2px 0px 54px;
+}
+.logopan img{
+    width: 300px;
+    height: 300px;
+}
+.de{
+    text-align: center;
+    width: 1200px;
+    height: 125px;
+    color:rgb(93, 96, 93);
+    background-color: rgb(14, 39, 14);
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}

@@ -1,0 +1,24 @@
+.panchayathuser{
+    text-align: center;
+    height: 65vh;
+}
+.panchayathuser h1{
+    padding-top: 56px;
+        padding-bottom: 13px;
+        font-size: 34px; 
+        font-style: italic;
+}
+.panchayathuser input{
+    border: 0px;
+        background-color: darkgray;
+        outline: none;
+        color: black; 
+}
+.bar{
+    background-color: rgba(0, 0, 255, 0.397);
+    width: 100%;
+    height: 100vh;
+}
+.emailuser{
+    padding-left: 556px;
+}

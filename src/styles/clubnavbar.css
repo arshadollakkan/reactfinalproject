@@ -1,0 +1,50 @@
+.clubnavbar{
+    display: flex;
+    flex-direction: column;
+
+    align-items:center;
+    
+    background-color: rgb(25, 54, 67);
+    width: 100%;
+    
+
+}
+.clubnavbarlogo img{
+    width:130px;
+    margin-right:53;
+    
+} 
+
+
+
+
+.clubnavbarlinks a{
+    text-decoration: none;
+    color:white;
+
+}
+.clubnavbarlinks{
+    margin-top: 15px;
+    
+   margin-bottom: -16px;
+    
+}
+.clubnavbarlinks li{
+    background-color: black;
+   
+    height: 100px;
+    margin-left: -32px;
+    padding-left: 54px;
+    padding-top:-12px;
+    padding-top: 34px;
+    width: 250px;
+    margin-top: 14px;
+    border-radius: 0px;
+    transition: .6s;
+}
+.clubnavbarlinks li:hover{
+    transform: scale(1.1);
+}
+.clubnavbarlinks ul{
+    text-decoration: none;
+}

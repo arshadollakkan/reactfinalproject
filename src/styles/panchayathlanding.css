@@ -1,0 +1,56 @@
+.panchayathlanding4{
+    width: 700px;
+    background-color: black;
+    height: 500px;
+    margin:auto;
+    text-align: center;
+   
+}
+.panchayathlanding4 h1{
+    padding-top: 23px;
+    margin: 0px;
+    color: white;
+    font-style: italic;
+}
+.op{
+    width:900px;
+    background-color: cadetblue;
+    margin: auto;
+    height: 649px;
+    padding-top:70px;
+}
+.lo{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 255, 0.544);
+}
+
+
+.panchayathlanding4 li{
+    display: inline;
+}
+.panchayathlanding4 a{
+    text-decoration: none;
+    font-size: 34px;
+    color: white;
+}
+#w2{
+   background-color:rgba(137, 43, 226, 0.39);
+   padding: 23px 200px;
+   position: absolute;
+   left: 365px;
+   top:190px;
+   border-radius: 9px;
+
+}
+#u{
+background-color: rgba(137, 43, 226, 0.39);
+padding: 23px 215px;
+position: absolute;
+left:365px;
+top:334px;
+
+border-radius: 9px;
+
+   
+}

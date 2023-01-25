@@ -1,0 +1,69 @@
+.bapplies{
+    width: 1052px;
+    height:120vh ;
+    background-color: rgb(220, 20, 60);
+    text-align: center;
+    padding-top: 23px;
+   
+
+}
+.bapplies h1{
+    color: white;
+    font-size: 54px;
+    font-style: italic;
+}
+#po{
+    color: white;
+    font-size: 54px;
+    font-style: italic; 
+    transition: .86s; 
+}
+#po:hover{
+    transform: scaleX(1.5);
+}
+.bapplies h2{
+    color: white;
+}
+.appliedlist h2{
+color: gray;
+}
+.memberimage img{
+    width: 200px;
+    height: 200px;
+    border-radius: 9px;
+}
+.formlist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(30, 143, 255);
+    padding: 3px 23px;
+    width: 75%;
+    margin: 9px auto 0px;
+    transition: .6s;
+
+}
+.formlist:hover{
+    background-color: saddlebrown;
+    color: white;
+    border-radius: 6px;
+    box-shadow: 7px 0px 4px black;
+    transform: skew(-3deg);
+     
+}
+.romove button{
+    padding: 7px 16px;
+    border-radius: 6px;
+}
+.romove button:hover{
+    background-color: rgb(30, 143, 255) ;
+    border: 0px;
+    color: white;
+    padding: 7px 16px;
+    border-radius: 6px;
+
+}
+#yt{
+    font-style: oblique;
+}
+

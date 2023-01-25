@@ -1,0 +1,33 @@
+.updatematches{
+    text-align: center;
+}
+.updatematches h1{
+    margin: 0px;
+    font-size: 54px;
+    font-style: italic;
+}
+.updatematchform{
+    background-color: rgba(255, 0, 0, 0.676);
+    width: 75%;
+    height: 95vh;
+    margin: 9px auto;
+    padding-top: 34px;
+    padding-left: 324px;
+    border-radius: 14px;
+    box-shadow: 4px 4px 4px black;
+}
+
+.updatematchform button{
+    padding: 14px 43px;
+    border: none;
+    color: black;
+    margin-left: 3px;
+    margin-right: 310px;
+    border-radius: 6px;
+}
+.updatematchform button:hover{
+    
+    background-color: rgba(0, 140, 255, 0.802);
+    color: white;
+
+}

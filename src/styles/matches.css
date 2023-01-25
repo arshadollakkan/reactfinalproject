@@ -1,0 +1,61 @@
+
+.match h1{
+    text-align: center;
+    
+}
+.match{
+    background-color: cornflowerblue;
+}
+
+.matchlist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkgray;
+    margin: 4px 12px 0px;
+    width: 98%;
+    border-radius: 9px;
+    transition:.9s;
+
+}
+.matchlist:hover{
+    transform: scale(.9);
+}
+
+
+
+
+
+
+
+.matchimage img{
+     width: 450px;
+     height: 300px;
+     border-top-left-radius: 6px;
+     border-bottom-left-radius: 6px;
+}
+.matchreport{
+    text-align: center;
+    width: 620px;
+    font-style: italic;
+    margin-left: 0px;
+    margin-right: -34px;
+    color: white;
+}
+.buttons{
+    padding-top: 54px;
+    padding-left:64px;
+    
+    width: 287px;
+}
+.buttons button{
+    margin-top: 5px;
+    border: none;
+    padding: 13px 43px;
+    margin-left: 12px;
+    border-radius: 6px;
+}
+.buttons button:hover{
+   background-color: brown;
+   color: white;
+}

@@ -1,0 +1,27 @@
+.clubdashbord h1{
+    font-size: 50px;
+    font-style: italic;
+    margin: 0px;
+    
+}
+.clubdashbord{
+    width: 1052px;
+    height: 120vh;
+    text-align: center;
+    background-color: rgba(255, 166, 0, 0.667);
+}
+.clubdashbord img{
+    width: 200px;
+    height: 200px;
+}
+.clubdashbord p{
+    color: aliceblue;
+}
+.clubdashbord h6{
+    margin-top: 39px;
+}
+#lo{
+    position: absolute;
+    left: 545px;
+    top: 820px;
+}

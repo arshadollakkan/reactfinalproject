@@ -1,0 +1,46 @@
+.usernavbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(rgba(21, 10, 19, 0.944),rgba(37, 5, 32, 0.944));
+    padding-top: 8px; 
+}
+.logomiage img{
+    width: 122px;
+    height: 69px;
+}
+.navlinks li{
+    display:inline;
+    margin: 13px;
+}
+.navlinks a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    font-style: italic;  
+}
+.navlinks a:hover{
+    color: white;
+}
+.navlinks li{
+    background-color: rgb(108, 94, 76);
+    padding: 16px 23px;
+    border-radius: 3px;  
+}
+.navlinks li:hover{
+    background-color: rgba(110, 67, 10, 0.82);
+    padding: 16px 23px;
+    border-radius: 3px;
+}
+#res{
+    background-color: brown;
+}
+#res:hover{
+    background-color:rgba(255, 0, 0, 0.844);
+}
+#ret{
+    background-color: brown;
+}
+#ret:hover{
+    background-color:rgba(255, 0, 0, 0.844);  
+}

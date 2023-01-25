@@ -1,0 +1,18 @@
+.addteama h1{
+    font-size: 54px;
+    font-style: italic;
+    color: white;
+}
+.addteama{
+    width: 1052px;
+    height: 116vh;
+    background-color: coral;
+    text-align: center;
+}
+.addteamaform input,.addteamaform textarea{
+    margin-left: 260px;
+}
+.addteamaform button{
+    margin-left: -4px;
+    
+}

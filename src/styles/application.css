@@ -1,0 +1,20 @@
+.applicationform{
+    width: 1052px;
+    height: 120vh;
+    background-color: darksalmon;
+    text-align: center;
+}
+.applicationform h1{
+    color: aliceblue;
+    font-size: 45px;
+    font-style: italic;
+    text-shadow: 4px 4px 4px black;
+}
+.applicationformser{
+    margin-left: 348px;
+    margin-top: 56px;
+}
+.applicationformser button{
+   margin-right:370px;
+   
+}

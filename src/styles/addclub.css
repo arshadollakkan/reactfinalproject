@@ -1,0 +1,36 @@
+.addclub h1{
+    font-size: 64px;
+    font-style: italic;
+}
+.addclub{
+    text-align: center;
+    background-color: darkgray;
+}
+
+.addclubform input{
+    width:250px;
+    height: 56px;
+    margin: 4px 4px 4px 4px;
+    text-align: center;
+    outline: none;
+    border: 0px;
+    
+    
+    border-radius: 9px;
+    background-color: rgba(43, 42, 16, 0.566);
+}
+.addclubform input:hover{
+    background-color: rgba(0, 255, 255, 0.642);
+}
+.addclubform button{
+    border: 0px;
+     padding: 12px 34px;
+     font-size: 20px;
+     margin-top: 7px;
+     margin-bottom: 7px;
+     border-radius: 6px;
+    
+}
+
+
+
